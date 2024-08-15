@@ -16,21 +16,21 @@ To run **Note Nirvana** locally, follow these steps:
 
 1. **Clone the repository:**
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/Samirasimha/NoteNirvana
-   \`\`\`
+   ```
 
 2. **Navigate to the project directory:**
 
-   \`\`\`bash
+   ```bash
    cd NoteNirvana
-   \`\`\`
+   ```
 
 3. **Install dependencies:**
 
-   \`\`\`bash
+   ```bash
    npm run build
-   \`\`\`
+   ```
 
 
 ## Contributing
